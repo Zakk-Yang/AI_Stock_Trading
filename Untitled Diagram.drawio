@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T00:40:35.894Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OpTnWyPZfbzWOL6UMBpV" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T00:40:47.879Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WHyKxHlleFSHbzSF_7ni" version="16.2.7" type="github">
   <diagram id="tpxu_sSsZ3oFw5UVlAfC" name="Page-1">
     <mxGraphModel dx="2253" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JvV7v8kjxqwCaFVPu7B1-1" value="Find correlation between yesterday&#39;s indicators and today&#39;s price change rate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-420" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JvV7v8kjxqwCaFVPu7B1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvV7v8kjxqwCaFVPu7B1-2" target="JvV7v8kjxqwCaFVPu7B1-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
