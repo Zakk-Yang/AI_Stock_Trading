@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T00:25:44.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kU3BnA0eXEhOMmwNd9TO" version="16.2.7" type="github"><diagram id="tpxu_sSsZ3oFw5UVlAfC" name="Page-1">5Vhdb5swFP010Z4q8ZEAeVzTZMvUapUiZc8u3II7wMxcAvTXz4AJIW7STFpK2uaB2Mc2vvfc42ubkTmLim+cJMEd8yAcGZpXjMybkSF+E1P8VUjZILY1bQCfU6+B9A5Y0WeQoCbRjHqQ9joiYyHSpA+6LI7BxR5GOGd5v9sjC/uzJsQHBVi5JFTRX9TDoEEdw+7w70D9oJ1Zb/2LSNtZepIGxGP5DmTOR+aMM4ZNKSpmEFbktbw04xYHWreGcYjxlAE/Nmt74/x+Kv7kM7JY32f2tX4l3diQMJMOS2OxbBkATxAiq4xjwHwWk3DeodecZbEH1TSaqHV9bhlLBKgL8AkQSxldkiETUIBRKFubOauJDvomoZRl3IUjDrUaIdwHPNLP2kZASBdYBMhLMY5DSJBu+nYQqSF/26+jWRQk0//Auq6wvqCxV6uYNxawWNQeAHOAqlRCisA9Un5Jq3fHHnUJMl5VSD0QWduYcCoIEq8KSOxXBU4QlKD2Q5YHFGGVkJrZXCzkl8KzAY5QHA+QSqgccDXW5DKQecCwZT3vVpXeLpVgZ0VZ2pmCYH406RsnSv9ApN5G+pPPyvp4SNYNhfU7kiQC+ZmheH6t33DPkiwkXJSWIsHI/DJ03rD0S8sbzkdT8Pg9bJljVcG3or4AghmvtrlllAgaSeyqm90rMu3H4hyiHetDi7Y14OOo1jpRtdMhVWsprK9pmpGQPssz3n56DVj0kKWvp9b/r1nT2dOspmrWeUGyztkkq25a71yy0xMlqw96QtPVVPtZeDeH5H2q0L70hKv0sTIBA6gvhCnu3f+G3ur273WTwc9nunq7nseN0SusLsN+eXm02cOfENT78LygeFGsGW8oNlHtvs3VbTtfOM35Xw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-18T00:29:02.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fqFZtLsOLBJcsd6eqNeF" version="16.2.7" type="github">
+  <diagram id="tpxu_sSsZ3oFw5UVlAfC" name="Page-1">
+    <mxGraphModel dx="2253" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvV7v8kjxqwCaFVPu7B1-1" target="JvV7v8kjxqwCaFVPu7B1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-1" value="Find correlation between yesterday&#39;s indicators and today&#39;s price change rate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvV7v8kjxqwCaFVPu7B1-2" target="JvV7v8kjxqwCaFVPu7B1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvV7v8kjxqwCaFVPu7B1-2" target="JvV7v8kjxqwCaFVPu7B1-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-2" value="Mapp Out All Popular Indiators" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvV7v8kjxqwCaFVPu7B1-4" target="JvV7v8kjxqwCaFVPu7B1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-4" value="ML Feature Importance" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvV7v8kjxqwCaFVPu7B1-6" target="JvV7v8kjxqwCaFVPu7B1-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-6" value="Visualization" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvV7v8kjxqwCaFVPu7B1-9" target="JvV7v8kjxqwCaFVPu7B1-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvV7v8kjxqwCaFVPu7B1-9" target="JvV7v8kjxqwCaFVPu7B1-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-9" value="Identify the best indicators" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-11" value="Entry Strategy" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvV7v8kjxqwCaFVPu7B1-13" value="Exit Strategy" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
